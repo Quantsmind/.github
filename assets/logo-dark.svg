@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Quantsmind Dark Logo mark: stylized "Q" in navy with cyan accent -->
+<svg width="120" height="120" viewBox="0 0 120 120" xmlns="http://www.w3.org/2000/svg">
+  <rect width="120" height="120" fill="#0a0a2e"/>
+  <path d="M20 60 L100 60" stroke="#3b82f6" stroke-width="8" stroke-linecap="round"/>
+  <path d="M40 40 L80 40 L68 68 L52 68 Z" fill="#3b82f6"/>
+  <circle cx="60" cy="60" r="38" fill="#0a0a2e" stroke="#3b82f6" stroke-width="2"/>
+  <text x="60" y="65" font-family="Arial, sans-serif" font-size="16" fill="#f8f9fa" text-anchor="middle" font-weight="bold">Q</text>
+</svg>
