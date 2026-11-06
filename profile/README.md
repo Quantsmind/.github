@@ -72,14 +72,16 @@ Our verified public repository portfolio represents the following capabilities:
 
 ## 🌟 Featured Open-Source Projects
 
+We feature the three strongest public repositories for organization-level presentation, evaluated on product maturity, technical quality, documentation quality, verified releases, public accessibility, and relevance to QuantsMind positioning.
+
 ### 1. **Karkain** — Systems Programming Language
 
 A statically typed systems programming language targeting heterogeneous computing architectures including CPU, GPU, NPU, and quantum processors.
 
-- **Technical Quality:** Statically typed type system, self-hosted compiler, byte-identical dual-engine pipeline
-- **Documentation:** Language reference, API docs, 61 runnable examples, status-graded compatibility matrix
+- **Technical Quality:** Statically typed type system, self-hosted compiler, byte-identical dual-engine pipeline, stable v1.1.0 release
+- **Documentation:** Language reference, API docs, 61 runnable examples, status-graded compatibility matrix, phase audit reports
 - **Relevance:** Core infrastructure for QuantsMind's computing platform; active stable release v1.1.0
-- **Release Evidence:** v1.1.0 release with full capability summary and phase audit reports
+- **Release Evidence:** v1.1.0 release with full capability summary and Phase 119 QA report (`docs/audit/PHASE-119-LANGUAGE-QA-FINAL-REPORT.md`)
 
 [📦 GitHub Repository](https://github.com/Quantsmind/Karkain)
 
@@ -88,9 +90,9 @@ A statically typed systems programming language targeting heterogeneous computin
 A domain-oriented quantum intelligence SDK that transforms supported real-world optimization problems (finance/portfolio, data, ML) into mathematical computational workflows and executes them through classical, quantum, or hybrid strategies.
 
 - **Technical Quality:** Domain ontology (Entity/System/State/Interaction), 30+ packages, Apache 2.0 license, verified release 1.1.0
-- **Documentation:** Architecture overview, developer guide, package dependency rules, roadmap
+- **Documentation:** Architecture overview, developer guide, package dependency rules, roadmap, known-limitations documentation
 - **Relevance:** Primary delivery vehicle for QuantsMind's quantum and AI offerings
-- **Release Evidence:** QuantsMind Quantum 1.1.0 stable release with roadmap and known-limitations documentation
+- **Release Evidence:** QuantsMind Quantum 1.1.0 stable release with roadmap and known-limitations documentation (`docs/known-limitations.md`)
 
 [📦 GitHub Repository](https://github.com/Quantsmind/QuantsMind-SDK)
 
@@ -99,7 +101,7 @@ A domain-oriented quantum intelligence SDK that transforms supported real-world 
 A lightweight, NumPy-only quantum computing SDK implemented from scratch — independent of Qiskit, Cirq, or OpenQASM.
 
 - **Technical Quality:** Full stack (core engine, algorithms, backends, providers, mitigation, benchmarks), MIT license, GA v1.1.0
-- **Documentation:** Getting-started quickstart, architecture principles, standardized result contract, PyPI package
+- **Documentation:** Getting-started quickstart, architecture principles, standardized result contract, PyPI package and release notes
 - **Relevance:** Supporting infrastructure for quantum product line; dependency-light implementation
 - **Release Evidence:** General Availability v1.1.0 on PyPI with full release notes and benchmark suite
 
