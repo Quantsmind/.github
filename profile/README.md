@@ -206,7 +206,7 @@ print(f"Quantum state: {result.amplitudes}")
 ## 🌐 Website & Business Contact
 
 - **Website:** [https://www.quantsmind.com](https://www.quantsmind.com)
-- **Email:** [business@quantsmind.com](mailto:business@quantsmind.com)
+- **Email:** [ajitkumar@quantsmind.com](mailto:ajitkumar@quantsmind.com)
 - **Location:** Global distributed team
 - **GitHub:** [https://github.com/Quantsmind](https://github.com/Quantsmind)
 
